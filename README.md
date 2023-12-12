@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm DishantAckplus 🚀
+### Hey there! 👋 I'm Dishant Makwana 🚀
 
 I'm a tech enthusiast with an insatiable curiosity for all things coding and innovation! My journey in the world of tech is an exciting exploration filled with a passion for software development, machine learning, and creating impactful projects.
 
@@ -8,7 +8,7 @@ I'm a tech enthusiast with an insatiable curiosity for all things coding and inn
 
 💞️ I'm keen on collaborating with like-minded individuals on groundbreaking projects, whether it's contributing to open-source initiatives, exploring new tech frontiers, or brainstorming innovative solutions.
 
-📫 Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile). Let's connect, share ideas, and build something awesome together!
+📫 Feel free to reach out to me via [email](mailto:makwanadishant644@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile). Let's connect, share ideas, and build something awesome together!
 
 <!---
 DishantAckplus/DishantAckplus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
